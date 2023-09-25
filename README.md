@@ -4,7 +4,7 @@
 
 ## 🌐 Social Networks:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasgonzalezrouco/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mat%C3%ADas-mutz-ba49761aa/)
 
 ## 💻 Tech-Stack:
 
