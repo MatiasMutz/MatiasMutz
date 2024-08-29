@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Matías Mutz</h1>
-<h3 align="center">💻 Working as a Software Engineer at New Combin</h3><br>
+<h3 align="center">💻 Working as a Software Engineer at New Combin</h3>
 <h3 align="center">🏫 Studying 4th year of Software Engineer at ITBA</h3><br>
 
 ## 🌐 Social Networks:
