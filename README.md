@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋 I'm Matías Mutz</h1>
-<h3 align="center">💫 Currently studying Software Engineer in ITBA</h3><br>
+<h3 align="center">💫 Currently working as a Software Engineer in New Combin and studying 4th year of Software Engineer at ITBA</h3><br>
 
 ## 🌐 Social Networks:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mat%C3%ADas-mutz-ba49761aa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/matias-mutz/)
 
 ## 💻 Tech-Stack:
 
@@ -24,7 +24,6 @@
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&style=for-the-badge&logo=vuetify&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat&style=for-the-badge&logo=json&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=flat&style=for-the-badge&logo=github&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&style=for-the-badge&logo=slack&logoColor=white)
 
 ## 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MatiasMutz&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
