@@ -1,11 +1,12 @@
 <h1 align="center">Hi there 👋 I'm Matías Mutz</h1>
-<h3 align="center">💫 Currently working as a Software Engineer in New Combin and studying 4th year of Software Engineer at ITBA</h3><br>
+<h3 align="center">💻 Working as a Software Engineer at New Combin</h3><br>
+<h3 align="center">🏫 Studying 4th year of Software Engineer at ITBA</h3><br>
 
 ## 🌐 Social Networks:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-mutz/)
 
-## 💻 Tech-Stack:
+## ⚒ Tech-Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badg&style=flate&logo=c-sharp&logoColor=white)
